@@ -28,3 +28,7 @@ DIMM3: Samsung M393B5673FH0-CH9	2 Гб DDR3-1333 Reg. ECC DDR3 SDRAM  (9-9-9-24 
 Вiдеоадаптер	GeForce 210  (512 Мб)
 3D-акселератор	nVIDIA GeForce 210
 Монiтор	Philips 192E (192E2)  [19" LCD]  (DL41031104778)
+
+
+
+https://drive.google.com/file/d/1wk0aIytvKLMo_A6x7oLljwhbuPPC-BM-/view
